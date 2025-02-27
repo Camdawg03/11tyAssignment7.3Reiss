@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
-title: About
+title: About Finn
 ---
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# About **Finn**
+<img class="about" alt="Finn" src="/images/Finn7.3.png" width="500" />
