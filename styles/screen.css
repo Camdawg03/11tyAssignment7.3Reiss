@@ -45,10 +45,40 @@ h1 strong {
     -webkit-text-fill-color: transparent;
 }
 
-.rocket {
-padding-right: 170px;
+h2 strong {
+    background: rgb(34,193,195);
+    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 button {
-    margin-inline: center;
+    color:black;
+  background-color:white;
+  border:white;
+  margin:10px;
+  padding:-10px;
+ font-family: Helvetica, sans-serif;
+  font-weight:bold;
+  font-size: 25px;
+  width:400px;
+  height:45px;
+  margin-right:22px;
+  z-index:1;
 }
+
+.rocket {
+ padding: auto;
+ padding-right: 25px;
+ display: block;
+margin: 0 auto;
+max-height: 90%;
+max-width: 90%;
+z-index:-1;
+
+}
+
+.about {
+    margin-bottom: 30px; 
+}
+
