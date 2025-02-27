@@ -6,7 +6,6 @@ title: About Finn
 # About **Finn**
 <img class="about" alt="Finn" src="/images/Finn7.3.png" width="500" />
 
-### <i> To travel between the stars is to walk the line between wonder and madness — to touch infinity and know you are nothing, yet somehow, still enough.” </i> ###
 
 ## Drifting through the uncharted void, Finn is the sole human ambassador to the infinite. Alone by choice—or perhaps by fate—he travels between stars, navigating ancient nebulae and forgotten worlds with only the hum of his ship and the silence of deep space for company.
 
