@@ -15,3 +15,4 @@ title: About Finn
 
 ## Somewhere, light-years from the nearest human voice, Finn charts his own mythology—one quiet step at a time.
 
+Text prompt in ChatGPT: Write a blog description for a man named Finn who is a lone human interstellar explorer who documents his adventures and thoughts while traveling

@@ -22,3 +22,5 @@ title: Adventures
 ### I named the system Keshra — after someone I used to know. Someone who believed every place, no matter how empty, deserved a name. 
 
 ### Tomorrow, I’ll plot a course for the next unmarked patch of sky. For now, I’ll sit here a little longer, watching the light fade over a nameless horizon. 
+
+Prompt in ChatGPT: Write a blog post about an interstellar explorer named Finn who just charted uncharted territory
